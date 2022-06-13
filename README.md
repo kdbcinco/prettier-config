@@ -39,7 +39,7 @@ Or, using `prettier` field on `package.json`:
 ```json
 {
   "name": "my-very-awesome-app",
-  "version" "3.10.11",
+  "version": "3.10.11",
   "prettier": "@kdbcinco/prettier-config"
 }
 ```
