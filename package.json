@@ -20,5 +20,8 @@
   "files": [
     "index.js",
     ".prettierrc.json"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
