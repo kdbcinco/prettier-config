@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "release": "np --no-tests"
+    "release": "np"
   },
   "peerDependencies": {
     "prettier": "^2.6.2"
