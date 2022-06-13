@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "np": "^7.6.1"
-  }
+  },
+  "files": [
+    "index.js",
+    ".prettierrc.json"
+  ]
 }
