@@ -1,0 +1,14 @@
+{
+  "name": "@crunchypipino/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "author": {
+    "name": "Karl Dominick Cinco",
+    "email": "kdbcinco@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
